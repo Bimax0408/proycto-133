@@ -1,0 +1,46 @@
+h1 {
+    background-color: rgb(123, 154, 255);
+    border-radius: 35px;
+    border-style: solid;
+    height: 100px;
+    text-align: center;
+    width: fit-content;
+    font-family: 'Fredoka', sans-serif;
+    vertical-align: middle;
+    line-height: 90px;
+}
+
+body {
+    background-size: cover;
+}
+
+h2 {
+    background-color: rgb(133, 247, 255);
+    border-radius: 35px;
+    border-style: solid;
+    height: 50px;
+    text-align: center;
+    width: fit-content;
+    font-family: 'Fredoka', sans-serif;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+h3 {
+    font-size: 25px;
+    background-color: rgb(133, 247, 255);
+    border-radius: 35px;
+    border-style: solid;
+    height: 50px;
+    text-align: center;
+    width: fit-content;
+    font-family: 'Fredoka', sans-serif;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+canvas {
+    margin-top: 150px;
+    border-radius: 35px;
+    border-style: solid;
+}
